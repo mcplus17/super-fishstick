@@ -1,34 +1,28 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-26 11:20:49 +0000"
+      "unlock_right_away": "2024-12-26 22:43:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-26 22:43:41 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-26 22:43:41 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-26 11:21:18 +0000",
-      "minecraft:savanna": "2024-12-26 11:20:50 +0000"
+      "minecraft:beach": "2024-12-26 22:43:41 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-26 22:44:04 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-26 11:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-26 11:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2024-12-26 11:21:11 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
