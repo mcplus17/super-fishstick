@@ -669,3 +669,20 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [27Dec2024 01:25:40.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Stone Age]
 [27Dec2024 01:25:48.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Getting an Upgrade]
 [27Dec2024 01:30:32.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Acquire Hardware]
+[27Dec2024 01:35:47.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=144, y=35, z=163} but found not block entity block Block{minecraft:water}[level=3] at location
+[27Dec2024 01:35:47.375] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=3] but failed at location BlockPos{x=144, y=35, z=163}
+[27Dec2024 01:36:55.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja lost connection: Disconnected
+[27Dec2024 01:36:55.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
+[27Dec2024 01:36:55.475] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
+[27Dec2024 01:37:08.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Dec2024 01:37:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Dec2024 01:37:08.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Dec2024 01:37:08.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Dec2024 01:37:09.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Dec2024 01:37:11.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Dec2024 01:37:11.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Dec2024 01:37:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Dec2024 01:37:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Dec2024 01:37:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Dec2024 01:37:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Dec2024 01:37:11.115] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
