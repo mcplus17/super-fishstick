@@ -504,3 +504,21 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [28Dec2024 13:30:48.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71f92966-9de7-3a64-9d65-f06e6711b873
 [28Dec2024 13:30:49.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71f92966-9de7-3a64-9d65-f06e6711b873
 [28Dec2024 13:30:49.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) successfully connected to voice chat
+[28Dec2024 13:33:48.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Stone Age]
+[28Dec2024 13:34:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Getting an Upgrade]
+[28Dec2024 13:35:15.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [Stone Age]
+[28Dec2024 13:36:18.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [Getting an Upgrade]
+[28Dec2024 13:37:39.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Exorcism]
+[28Dec2024 13:38:25.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [A Strange Grave Dust]
+[28Dec2024 13:38:44.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [Monster Hunter]
+[28Dec2024 13:40:09.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Dark Metallurgy]
+[28Dec2024 13:40:22.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Siamese Skeletons
+[28Dec2024 13:40:22.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Your First Grave]
+[28Dec2024 13:40:22.990] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[28Dec2024 13:40:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [The Most Useful Key]
+[28Dec2024 13:40:47.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Dread Hound
+[28Dec2024 13:40:47.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [Your First Grave]
+[28Dec2024 13:40:47.670] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[28Dec2024 13:40:50.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [The Most Useful Key]
+[28Dec2024 13:42:22.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [A Strange Grave Dust]
+[28Dec2024 13:42:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Acquire Hardware]
