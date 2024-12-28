@@ -469,3 +469,21 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [28Dec2024 19:29:03.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) successfully connected to voice chat
 [28Dec2024 19:30:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Stone Age]
 [28Dec2024 19:33:15.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Getting an Upgrade]
+[28Dec2024 19:37:27.924] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2006ms or 40 ticks
+[28Dec2024 19:39:33.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja lost connection: Disconnected
+[28Dec2024 19:39:33.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
+[28Dec2024 19:39:33.148] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
+[28Dec2024 19:40:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Dec2024 19:40:16.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Dec2024 19:40:16.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Dec2024 19:40:16.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Dec2024 19:40:17.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Dec2024 19:40:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Dec2024 19:40:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Dec2024 19:40:18.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Dec2024 19:40:18.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Dec2024 19:40:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Dec2024 19:40:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Dec2024 19:40:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Dec2024 19:40:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Dec2024 19:40:18.663] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

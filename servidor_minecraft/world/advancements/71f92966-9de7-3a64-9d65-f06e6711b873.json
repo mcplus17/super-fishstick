@@ -174,6 +174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-28 19:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-28 19:28:42 +0000"
@@ -300,6 +306,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-28 19:36:59 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2024-12-28 19:29:50 +0000"
@@ -355,6 +367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-28 19:33:15 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-28 19:29:50 +0000"
@@ -406,6 +424,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-28 19:30:52 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 19:33:15 +0000"
     },
     "done": true
   },
@@ -490,6 +514,12 @@
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2024-12-28 19:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-28 19:33:15 +0000"
     },
     "done": true
   },
@@ -597,6 +627,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-28 19:38:39 +0000",
+      "minecraft:meadow": "2024-12-28 19:35:59 +0000",
       "minecraft:plains": "2024-12-28 19:28:43 +0000"
     },
     "done": false
@@ -637,11 +669,23 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 19:33:15 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-28 19:29:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-28 19:36:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -724,6 +768,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-28 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 19:33:15 +0000"
     },
     "done": true
   },
