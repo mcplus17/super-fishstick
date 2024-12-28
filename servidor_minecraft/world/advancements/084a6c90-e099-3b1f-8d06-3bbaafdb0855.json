@@ -1,4 +1,10 @@
 {
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-28 13:35:15 +0000"
@@ -17,6 +23,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2024-12-28 13:33:07 +0000"
@@ -32,6 +44,12 @@
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2024-12-28 13:33:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
     },
     "done": true
   },
@@ -120,6 +138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 13:46:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-28 13:33:21 +0000"
@@ -135,6 +159,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-28 13:38:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-28 13:40:50 +0000"
     },
     "done": true
   },
@@ -270,6 +300,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-28 13:33:41 +0000"
@@ -330,9 +366,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 13:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
     },
     "done": true
   },
@@ -409,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2024-12-28 13:33:17 +0000"
@@ -424,6 +478,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-28 13:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
     },
     "done": true
   },
@@ -457,9 +517,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-28 13:45:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2024-12-28 13:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
     },
     "done": true
   },
@@ -469,9 +541,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 13:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-28 13:33:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 13:43:10 +0000"
     },
     "done": true
   },
@@ -532,6 +622,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-28 13:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
     },
     "done": true
   },
@@ -613,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 13:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-28 13:35:15 +0000"
@@ -661,6 +763,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-28 13:33:09 +0000"
@@ -685,6 +793,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-28 13:34:33 +0000"
@@ -694,6 +808,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-28 13:33:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 13:40:47 +0000"
     },
     "done": true
   },
@@ -787,6 +907,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2024-12-28 13:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-28 13:39:26 +0000"
@@ -829,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-28 13:37:47 +0000"
@@ -856,6 +988,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-28 13:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 13:46:54 +0000"
     },
     "done": true
   },
@@ -940,7 +1078,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-28 13:29:16 +0000",
-      "minecraft:sparse_jungle": "2024-12-28 13:28:45 +0000"
+      "minecraft:sparse_jungle": "2024-12-28 13:28:45 +0000",
+      "minecraft:river": "2024-12-28 13:51:17 +0000",
+      "minecraft:plains": "2024-12-28 13:46:51 +0000"
     },
     "done": false
   },
@@ -1010,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-12-28 13:46:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-28 13:35:15 +0000"
@@ -1025,6 +1171,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2024-12-28 13:33:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
     },
     "done": true
   },
@@ -1049,6 +1201,12 @@
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-12-28 13:28:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-28 13:40:50 +0000"
     },
     "done": true
   },
@@ -1148,9 +1306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_wood": "2024-12-28 13:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-28 13:47:24 +0000"
     },
     "done": true
   },
