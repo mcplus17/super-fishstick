@@ -47,6 +47,7 @@
       "minecraft:lush_caves": "2025-01-03 17:33:05 +0000",
       "minecraft:ice_spikes": "2024-12-31 05:26:46 +0000",
       "minecraft:frozen_ocean": "2024-12-31 04:54:06 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-04 20:24:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 17:33:13 +0000",
       "minecraft:deep_dark": "2025-01-03 04:23:20 +0000",
       "minecraft:meadow": "2024-12-28 19:35:59 +0000",
@@ -4019,6 +4020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-04 20:36:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
@@ -4085,6 +4092,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-04 20:36:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
@@ -4133,6 +4146,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/head_band_blank": {
+    "criteria": {
+      "has_paper": "2025-01-04 20:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-01-04 20:13:57 +0000"
@@ -4160,6 +4179,12 @@
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/birthday_hat_alt": {
+    "criteria": {
+      "has_paper": "2025-01-04 20:36:13 +0000"
     },
     "done": true
   },
@@ -4205,6 +4230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-04 20:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-01-04 19:35:05 +0000"
@@ -4220,6 +4251,12 @@
   "doggytalents:recipes/building_blocks/dog_bed_def": {
     "criteria": {
       "has_wool": "2025-01-04 18:52:09 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_gift_costume": {
+    "criteria": {
+      "has_paper": "2025-01-04 20:36:13 +0000"
     },
     "done": true
   },
