@@ -4162,3 +4162,9 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 19:36:17.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 19:41:17.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 19:41:17.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 19:46:17.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 19:46:17.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 19:50:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[04Jan2025 19:51:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[04Jan2025 19:51:17.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 19:51:17.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

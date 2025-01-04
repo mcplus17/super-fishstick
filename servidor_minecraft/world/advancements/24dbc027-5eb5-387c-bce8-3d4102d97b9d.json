@@ -3113,9 +3113,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-01-04 19:41:47 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/guard_suit": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-04 19:46:04 +0000"
     },
     "done": true
   },
@@ -3185,6 +3197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-04 19:49:05 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_shin": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
@@ -3251,6 +3269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-04 19:46:53 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/conan_suit": {
     "criteria": {
       "has_wool": "2025-01-04 18:59:35 +0000"
@@ -3272,6 +3296,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-04 19:31:28 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-01-04 19:41:47 +0000"
     },
     "done": true
   },
@@ -3329,6 +3359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-04 19:49:05 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_tei": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
@@ -3374,6 +3410,12 @@
   "doggytalents:recipes/decorations/locator_orb_gi": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-04 19:49:05 +0000"
     },
     "done": true
   },

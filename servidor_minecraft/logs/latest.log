@@ -266,3 +266,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 19:31:45.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
 [04Jan2025 19:34:52.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Cutest Predator]
 [04Jan2025 19:35:05.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [The Cutest Predator]
+[04Jan2025 19:50:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[04Jan2025 19:51:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
