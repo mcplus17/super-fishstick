@@ -1150,9 +1150,11 @@
       "chicken": "2025-01-04 16:08:54 +0000",
       "cooked_mutton": "2024-12-31 04:44:32 +0000",
       "cooked_beef": "2024-12-31 02:37:16 +0000",
+      "baked_potato": "2025-01-04 16:24:02 +0000",
       "apple": "2024-12-31 02:04:20 +0000",
       "mutton": "2024-12-31 02:36:18 +0000",
       "bread": "2024-12-31 02:18:24 +0000",
+      "golden_apple": "2025-01-04 16:21:13 +0000",
       "cooked_chicken": "2024-12-31 02:01:55 +0000"
     },
     "done": false
@@ -3774,6 +3776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 16:23:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-01-04 16:09:11 +0000"
@@ -3783,6 +3791,12 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-04 16:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-04 16:23:10 +0000"
     },
     "done": true
   },

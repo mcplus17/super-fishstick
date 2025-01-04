@@ -3640,6 +3640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-04 16:26:17 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/uncooked_rice_bowl": {
     "criteria": {
       "has_dtn_rice_grains": "2025-01-04 15:55:14 +0000"
@@ -3673,6 +3679,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-04 16:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-04 16:26:17 +0000"
     },
     "done": true
   },

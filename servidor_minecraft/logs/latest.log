@@ -243,3 +243,14 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 16:01:09.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [When in Rome]
 [04Jan2025 16:02:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [When in Rome]
 [04Jan2025 16:09:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [Bypassing the Expiration Date]
+[04Jan2025 16:26:25.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Skeleton
+[04Jan2025 16:26:25.914] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[04Jan2025 16:26:28.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Skeleton
+[04Jan2025 16:26:28.109] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 16:28:04.495] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2031ms or 40 ticks
+[04Jan2025 16:29:04.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.3618892652923478
+[04Jan2025 16:29:04.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.6792531542067763
+[04Jan2025 16:29:04.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.9529835974308298
+[04Jan2025 16:29:04.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 1.184056935674505
+[04Jan2025 16:29:04.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.2590037392940303
+[04Jan2025 16:31:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Discreet Search]

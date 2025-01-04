@@ -3670,3 +3670,22 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 16:12:02.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 16:17:02.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 16:17:02.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 16:22:02.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 16:22:02.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 16:26:25.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Skeleton
+[04Jan2025 16:26:25.906] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja was created at position [x:-3743, y:27, z:1038, dim:minecraft:overworld]
+[04Jan2025 16:26:25.914] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[04Jan2025 16:26:28.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Skeleton
+[04Jan2025 16:26:28.103] [Server thread/DEBUG] [tombstone/]: A new grave of the player Death was created at position [x:-3725, y:29, z:1040, dim:minecraft:overworld]
+[04Jan2025 16:26:28.109] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 16:26:29.140] [Server thread/DEBUG] [twilightforest/]: Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) respawned and received items held in storage
+[04Jan2025 16:26:30.042] [Server thread/DEBUG] [twilightforest/]: Player Death (084a6c90-e099-3b1f-8d06-3bbaafdb0855) respawned and received items held in storage
+[04Jan2025 16:27:02.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 16:27:02.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 16:28:04.495] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2031ms or 40 ticks
+[04Jan2025 16:29:04.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.3618892652923478
+[04Jan2025 16:29:04.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.6792531542067763
+[04Jan2025 16:29:04.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.9529835974308298
+[04Jan2025 16:29:04.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 1.184056935674505
+[04Jan2025 16:29:04.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.2590037392940303
+[04Jan2025 16:31:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Discreet Search]
