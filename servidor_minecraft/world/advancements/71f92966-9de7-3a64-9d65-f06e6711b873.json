@@ -986,6 +986,7 @@
       "minecraft:cave_spider": "2024-12-31 04:47:18 +0000",
       "minecraft:enderman": "2025-01-03 04:19:10 +0000",
       "minecraft:zombie": "2024-12-31 04:00:11 +0000",
+      "minecraft:drowned": "2025-01-04 20:13:47 +0000",
       "minecraft:zombie_villager": "2025-01-04 17:35:20 +0000"
     },
     "done": false
@@ -4012,6 +4013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-04 20:12:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
@@ -4027,6 +4034,12 @@
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-04 20:12:26 +0000"
     },
     "done": true
   },
@@ -4084,6 +4097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-04 20:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
@@ -4099,6 +4118,24 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-04 19:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-04 20:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-01-04 20:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-01-04 20:13:57 +0000"
     },
     "done": true
   },
@@ -4129,6 +4166,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-04 20:13:57 +0000"
     },
     "done": true
   },
