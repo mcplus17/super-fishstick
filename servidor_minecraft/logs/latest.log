@@ -254,3 +254,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 17:20:35.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 1.0
 [04Jan2025 17:21:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
 [04Jan2025 17:22:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[04Jan2025 17:34:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was killed by Witch using magic
+[04Jan2025 17:34:19.298] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:34:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has reached the goal [Chain Death]
+[04Jan2025 17:34:49.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was killed by Witch using magic
+[04Jan2025 17:34:49.504] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:35:11.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Zombie Villager
+[04Jan2025 17:35:11.057] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved

@@ -981,7 +981,8 @@
       "minecraft:husk": "2024-12-31 04:23:50 +0000",
       "minecraft:cave_spider": "2024-12-31 04:47:18 +0000",
       "minecraft:enderman": "2025-01-03 04:19:10 +0000",
-      "minecraft:zombie": "2024-12-31 04:00:11 +0000"
+      "minecraft:zombie": "2024-12-31 04:00:11 +0000",
+      "minecraft:zombie_villager": "2025-01-04 17:35:20 +0000"
     },
     "done": false
   },
@@ -3749,6 +3750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 17:33:51 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/frisbee": {
     "criteria": {
       "has_slime_ball": "2025-01-04 17:02:58 +0000"
@@ -3758,6 +3765,12 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-04 17:33:53 +0000"
     },
     "done": true
   },
@@ -3785,6 +3798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-01-04 17:21:52 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_0": "2025-01-04 16:50:08 +0000",
@@ -3800,6 +3819,12 @@
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-01-04 16:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-04 17:33:05 +0000"
     },
     "done": true
   },
@@ -3821,6 +3846,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 17:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 17:33:51 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cherry_planks": {
     "criteria": {
       "has_planks": "2025-01-04 16:56:14 +0000"
@@ -3830,6 +3867,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-04 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-04 17:33:53 +0000"
     },
     "done": true
   },
@@ -3887,9 +3930,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-04 17:33:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-04 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-04 17:33:53 +0000"
     },
     "done": true
   },

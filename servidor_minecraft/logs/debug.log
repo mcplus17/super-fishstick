@@ -3633,3 +3633,22 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 17:20:39.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 17:21:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
 [04Jan2025 17:22:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[04Jan2025 17:25:39.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 17:25:39.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 17:30:39.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 17:30:39.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 17:34:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was killed by Witch using magic
+[04Jan2025 17:34:19.294] [Server thread/DEBUG] [tombstone/]: A new grave of the player Death was created at position [x:92, y:72, z:63, dim:minecraft:overworld]
+[04Jan2025 17:34:19.298] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:34:20.779] [Server thread/DEBUG] [twilightforest/]: Player Death (084a6c90-e099-3b1f-8d06-3bbaafdb0855) respawned and received items held in storage
+[04Jan2025 17:34:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has reached the goal [Chain Death]
+[04Jan2025 17:34:49.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was killed by Witch using magic
+[04Jan2025 17:34:49.501] [Server thread/DEBUG] [tombstone/]: A new grave of the player Death was created at position [x:84, y:72, z:65, dim:minecraft:overworld]
+[04Jan2025 17:34:49.504] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:34:50.988] [Server thread/DEBUG] [twilightforest/]: Player Death (084a6c90-e099-3b1f-8d06-3bbaafdb0855) respawned and received items held in storage
+[04Jan2025 17:35:11.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Zombie Villager
+[04Jan2025 17:35:11.044] [Server thread/DEBUG] [tombstone/]: A new grave of the player Death was created at position [x:92, y:72, z:64, dim:minecraft:overworld]
+[04Jan2025 17:35:11.057] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:35:12.339] [Server thread/DEBUG] [twilightforest/]: Player Death (084a6c90-e099-3b1f-8d06-3bbaafdb0855) respawned and received items held in storage
+[04Jan2025 17:35:39.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 17:35:39.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
