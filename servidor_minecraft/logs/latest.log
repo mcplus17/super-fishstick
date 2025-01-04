@@ -241,3 +241,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 15:57:02.893] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2075ms or 41 ticks
 [04Jan2025 15:57:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Magic Writing]
 [04Jan2025 16:01:09.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [When in Rome]
+[04Jan2025 16:02:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [When in Rome]
+[04Jan2025 16:09:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [Bypassing the Expiration Date]

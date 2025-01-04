@@ -3773,5 +3773,17 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-04 16:02:46 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-04 16:02:46 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
