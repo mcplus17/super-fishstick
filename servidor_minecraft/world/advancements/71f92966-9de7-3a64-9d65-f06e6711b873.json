@@ -3748,17 +3748,137 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/frisbee": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-01-04 16:50:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-04 17:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_0": "2025-01-04 16:50:08 +0000"
+      "trickor_treat_0": "2025-01-04 16:50:08 +0000",
+      "trickor_treat_2": "2025-01-04 16:53:00 +0000",
+      "trickor_treat_3": "2025-01-04 16:53:00 +0000",
+      "trickor_treat_4": "2025-01-04 16:53:00 +0000",
+      "trickor_treat_5": "2025-01-04 16:53:00 +0000",
+      "trickor_treat_6": "2025-01-04 16:53:00 +0000",
+      "trickor_treat_7": "2025-01-04 16:53:05 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-01-04 16:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-04 17:03:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2025-01-04 17:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-04 17:00:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-04 17:06:54 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
@@ -3766,9 +3886,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 17:02:58 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-01-04 16:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/throw_stick": {
+    "criteria": {
+      "has_slime_ball": "2025-01-04 17:02:58 +0000"
     },
     "done": true
   },
