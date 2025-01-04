@@ -1158,6 +1158,7 @@
       "baked_potato": "2025-01-04 16:24:02 +0000",
       "apple": "2024-12-31 02:04:20 +0000",
       "potato": "2025-01-04 17:04:27 +0000",
+      "pumpkin_pie": "2025-01-04 17:51:32 +0000",
       "mutton": "2024-12-31 02:36:18 +0000",
       "bread": "2024-12-31 02:18:24 +0000",
       "golden_apple": "2025-01-04 16:21:13 +0000",
@@ -3880,6 +3881,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hat_for_dark_deeds": {
+    "criteria": {
+      "hat_for_dark_deeds_0": "2025-01-04 17:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-04 17:40:42 +0000"
@@ -4012,6 +4019,12 @@
       "coded_trigger": "2025-01-04 17:06:59 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_1": "2025-01-04 17:51:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
