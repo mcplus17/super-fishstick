@@ -39,8 +39,10 @@
       "minecraft:sparse_jungle": "2025-01-04 15:53:33 +0000",
       "minecraft:river": "2024-12-28 23:24:29 +0000",
       "minecraft:snowy_plains": "2024-12-31 04:54:13 +0000",
+      "minecraft:stony_shore": "2025-01-04 18:48:57 +0000",
       "minecraft:dripstone_caves": "2024-12-29 18:30:41 +0000",
       "minecraft:snowy_taiga": "2024-12-31 05:00:06 +0000",
+      "minecraft:cold_ocean": "2025-01-04 18:48:53 +0000",
       "minecraft:forest": "2024-12-28 23:26:45 +0000",
       "minecraft:lush_caves": "2025-01-03 17:33:05 +0000",
       "minecraft:ice_spikes": "2024-12-31 05:26:46 +0000",
@@ -4006,6 +4008,108 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-01-04 17:52:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 18:46:48 +0000"
     },
     "done": true
   },

@@ -243,3 +243,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 18:34:34.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [04Jan2025 18:45:12.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ramon'/991, l='ServerLevel[world]', x=-1513.30, y=97.63, z=-2454.50] died, message: 'Ramon froze to death'
 [04Jan2025 18:45:12.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ramon'/991, l='ServerLevel[world]', x=-1513.30, y=97.63, z=-2454.50] died: Ramon froze to death
+[04Jan2025 18:46:20.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tena'/971, l='ServerLevel[world]', x=-1513.60, y=92.00, z=-2441.63] died, message: 'Tena froze to death'
+[04Jan2025 18:46:20.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tena'/971, l='ServerLevel[world]', x=-1513.60, y=92.00, z=-2441.63] died: Tena froze to death
+[04Jan2025 18:48:50.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Cobweb Entanglement]
