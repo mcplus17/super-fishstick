@@ -810,6 +810,7 @@
       "pumpkin_pie": "2024-12-31 05:22:05 +0000",
       "bread": "2024-12-31 03:02:47 +0000",
       "glow_berries": "2025-01-04 20:01:18 +0000",
+      "salmon": "2025-01-04 21:20:43 +0000",
       "golden_carrot": "2025-01-04 17:18:36 +0000"
     },
     "done": false
@@ -4105,6 +4106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 21:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
@@ -4285,6 +4292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 21:17:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 18:46:48 +0000"
@@ -4336,6 +4349,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-04 21:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 21:17:51 +0000"
     },
     "done": true
   },
