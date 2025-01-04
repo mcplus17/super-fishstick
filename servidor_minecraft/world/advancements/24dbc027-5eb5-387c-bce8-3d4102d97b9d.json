@@ -639,6 +639,7 @@
       "baked_potato": "2024-12-31 04:50:30 +0000",
       "cooked_cod": "2025-01-02 02:33:02 +0000",
       "bread": "2024-12-31 02:42:32 +0000",
+      "golden_carrot": "2025-01-04 18:57:32 +0000",
       "cooked_chicken": "2024-12-31 02:42:50 +0000"
     },
     "done": false
@@ -3057,6 +3058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-04 19:00:16 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/pianist_suit": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
@@ -3078,6 +3085,12 @@
   "doggytalents:recipes/decorations/locator_orb_rei": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-01-04 18:59:35 +0000"
     },
     "done": true
   },
@@ -3111,9 +3124,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-01-04 18:59:35 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/tengu_mask": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 18:59:55 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-01-04 18:59:35 +0000"
     },
     "done": true
   },
@@ -3165,6 +3196,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-01-04 18:59:35 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_ko": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
@@ -3177,9 +3214,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-01-04 18:59:35 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_gi": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-01-04 18:59:35 +0000"
     },
     "done": true
   },
