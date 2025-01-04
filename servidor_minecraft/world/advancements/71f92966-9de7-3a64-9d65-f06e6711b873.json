@@ -3840,6 +3840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-04 17:39:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-01-04 17:03:44 +0000"
@@ -3861,6 +3867,12 @@
   "mcwroofs:recipes/cherry_planks": {
     "criteria": {
       "has_planks": "2025-01-04 16:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 17:39:51 +0000"
     },
     "done": true
   },
@@ -3900,6 +3912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 17:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-04 16:56:14 +0000"
@@ -3915,6 +3933,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-04 17:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 17:39:51 +0000"
     },
     "done": true
   },
@@ -3951,6 +3975,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-01-04 16:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-04 17:39:51 +0000"
     },
     "done": true
   },

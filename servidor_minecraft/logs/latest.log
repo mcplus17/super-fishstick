@@ -261,3 +261,19 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 17:34:49.504] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
 [04Jan2025 17:35:11.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Zombie Villager
 [04Jan2025 17:35:11.057] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:36:41.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has completed the challenge [Village Defender]
+[04Jan2025 17:36:47.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Zombie Villager
+[04Jan2025 17:36:47.701] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:37:20.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death was slain by Zombie Villager
+[04Jan2025 17:37:20.707] [Server thread/INFO] [tombstone/]: The player Death has successfully been saved
+[04Jan2025 17:40:54.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja lost connection: Disconnected
+[04Jan2025 17:40:54.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
+[04Jan2025 17:40:54.393] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[04Jan2025 17:40:54.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
+[04Jan2025 17:46:03.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja[/100.73.245.73:31200] logged in with entity id 17815 at (92.91142948235598, 81.0, 63.77262152540329)
+[04Jan2025 17:46:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja joined the game
+[04Jan2025 17:46:04.041] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Benja just logged in with id 71f92966-9de7-3a64-9d65-f06e6711b873
+[04Jan2025 17:46:04.059] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[04Jan2025 17:46:04.062] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[04Jan2025 17:46:06.463] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja (18)
+[04Jan2025 17:46:06.464] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja

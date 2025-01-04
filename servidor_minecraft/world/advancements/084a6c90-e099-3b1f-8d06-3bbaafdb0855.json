@@ -217,6 +217,7 @@
       "minecraft:vindicator": "2025-01-03 16:40:10 +0000",
       "minecraft:spider": "2024-12-31 02:37:08 +0000",
       "minecraft:creeper": "2024-12-31 01:34:31 +0000",
+      "minecraft:witch": "2025-01-04 17:36:35 +0000",
       "minecraft:stray": "2024-12-31 03:51:37 +0000",
       "minecraft:zombie": "2024-12-31 02:37:34 +0000"
     },
@@ -1160,6 +1161,7 @@
       "mutton": "2024-12-31 02:36:18 +0000",
       "bread": "2024-12-31 02:18:24 +0000",
       "golden_apple": "2025-01-04 16:21:13 +0000",
+      "golden_carrot": "2025-01-04 17:42:55 +0000",
       "cooked_chicken": "2024-12-31 02:01:55 +0000",
       "carrot": "2025-01-04 17:04:36 +0000"
     },
@@ -3872,9 +3874,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 17:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-01-04 17:34:36 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
     },
     "done": true
   },
@@ -3908,6 +3934,12 @@
       "trickor_treat_7": "2025-01-04 16:53:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
@@ -3951,9 +3983,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-04 17:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 17:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 17:42:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-01-04 17:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
     },
     "done": true
   },
@@ -3963,9 +4025,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-04 17:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-04 17:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
     },
     "done": true
   },
@@ -3993,6 +4079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 17:38:06 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-01-04 17:29:12 +0000"
@@ -4002,6 +4094,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-04 17:29:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-04 17:36:41 +0000"
     },
     "done": true
   },
@@ -4053,9 +4151,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 17:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-04 17:34:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-04 17:40:42 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:40:42 +0000"
     },
     "done": true
   },
