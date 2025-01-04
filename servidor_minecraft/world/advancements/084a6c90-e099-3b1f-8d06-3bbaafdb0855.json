@@ -29,6 +29,7 @@
       "minecraft:taiga": "2024-12-31 02:14:37 +0000",
       "minecraft:frozen_river": "2024-12-31 03:27:16 +0000",
       "minecraft:cherry_grove": "2025-01-03 04:38:05 +0000",
+      "minecraft:birch_forest": "2025-01-04 16:32:50 +0000",
       "minecraft:savanna_plateau": "2025-01-03 18:54:02 +0000",
       "minecraft:beach": "2025-01-03 04:45:20 +0000",
       "minecraft:sparse_jungle": "2025-01-04 15:46:57 +0000",
@@ -41,6 +42,7 @@
       "minecraft:forest": "2024-12-31 01:41:47 +0000",
       "minecraft:frozen_ocean": "2025-01-03 05:12:07 +0000",
       "minecraft:ocean": "2025-01-03 04:45:30 +0000",
+      "minecraft:jungle": "2025-01-04 16:35:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 04:52:54 +0000",
       "minecraft:snowy_beach": "2025-01-03 05:14:25 +0000",
       "minecraft:meadow": "2024-12-31 02:25:46 +0000",
@@ -3770,9 +3772,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-04 16:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-04 16:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-04 15:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-04 16:37:08 +0000"
     },
     "done": true
   },
@@ -3782,9 +3802,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-04 16:39:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-01-04 16:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-04 16:39:01 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-01-04 16:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-04 16:39:01 +0000"
     },
     "done": true
   },
@@ -3800,11 +3844,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-04 16:39:01 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-04 16:02:46 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-04 16:39:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

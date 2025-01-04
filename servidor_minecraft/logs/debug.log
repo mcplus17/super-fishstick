@@ -3689,3 +3689,14 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 16:29:04.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 1.184056935674505
 [04Jan2025 16:29:04.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.2590037392940303
 [04Jan2025 16:31:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Discreet Search]
+[04Jan2025 16:32:02.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 16:32:02.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 16:33:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [People Are Strange]
+[04Jan2025 16:33:44.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Nightmare Stalker
+[04Jan2025 16:33:44.802] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja was created at position [x:-3778, y:63, z:995, dim:minecraft:overworld]
+[04Jan2025 16:33:44.812] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[04Jan2025 16:33:50.408] [Server thread/DEBUG] [twilightforest/]: Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) respawned and received items held in storage
+[04Jan2025 16:37:02.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 16:37:02.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 16:42:02.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 16:42:02.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
