@@ -34,6 +34,7 @@
       "minecraft:taiga": "2024-12-31 04:09:32 +0000",
       "minecraft:frozen_river": "2024-12-31 05:25:17 +0000",
       "minecraft:cherry_grove": "2024-12-28 19:38:39 +0000",
+      "minecraft:sparse_jungle": "2025-01-04 15:53:33 +0000",
       "minecraft:river": "2024-12-28 23:24:29 +0000",
       "minecraft:snowy_plains": "2024-12-31 04:54:13 +0000",
       "minecraft:dripstone_caves": "2024-12-29 18:30:41 +0000",
@@ -3628,6 +3629,18 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-03 18:30:00 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-01-04 15:55:14 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-01-04 15:55:14 +0000"
     },
     "done": true
   },
