@@ -3100,6 +3100,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-04 19:10:41 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
@@ -3127,6 +3133,12 @@
   "doggytalents:recipes/decorations/beastars_uniform_male": {
     "criteria": {
       "has_wool": "2025-01-04 18:59:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-01-04 19:05:08 +0000"
     },
     "done": true
   },
