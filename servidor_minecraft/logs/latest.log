@@ -279,3 +279,9 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 20:42:40.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2356, y=28, z=-2297} BlockPos{x=-2356, y=27, z=-2298}
 [04Jan2025 20:43:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
 [04Jan2025 20:44:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[04Jan2025 20:50:04.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cruz'/28531, l='ServerLevel[world]', x=-1511.53, y=93.00, z=-2441.47] died, message: 'Cruz froze to death'
+[04Jan2025 20:50:04.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cruz'/28531, l='ServerLevel[world]', x=-1511.53, y=93.00, z=-2441.47] died: Cruz froze to death
+[04Jan2025 20:50:38.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Milan'/28507, l='ServerLevel[world]', x=-1509.70, y=95.00, z=-2434.50] died, message: 'Milan froze to death'
+[04Jan2025 20:50:38.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Milan'/28507, l='ServerLevel[world]', x=-1509.70, y=95.00, z=-2434.50] died: Milan froze to death
+[04Jan2025 20:51:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[04Jan2025 20:52:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]

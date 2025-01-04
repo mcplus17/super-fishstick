@@ -3072,9 +3072,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-04 20:33:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
     },
     "done": true
   },
@@ -3126,9 +3138,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-04 19:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
     },
     "done": true
   },
@@ -3168,6 +3192,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-04 20:32:39 +0000"
@@ -3183,6 +3225,12 @@
   "doggytalents:recipes/decorations/locator_orb_rei": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
     },
     "done": true
   },
@@ -3228,6 +3276,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-01-04 19:12:43 +0000"
@@ -3237,6 +3297,18 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-01-04 19:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
     },
     "done": true
   },
@@ -3312,6 +3384,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-04 20:32:31 +0000"
@@ -3321,6 +3399,12 @@
   "doggytalents:recipes/food/golden_a_five_wagyu": {
     "criteria": {
       "has_cooked_beef": "2025-01-04 19:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
     },
     "done": true
   },
@@ -3345,6 +3429,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 20:33:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
     },
     "done": true
   },
@@ -3411,6 +3507,12 @@
   "doggytalents:recipes/food/training_treat": {
     "criteria": {
       "has_dtn_rice_grains": "2025-01-04 19:41:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-04 20:48:17 +0000"
     },
     "done": true
   },

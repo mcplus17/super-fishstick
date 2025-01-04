@@ -4202,3 +4202,13 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 20:44:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
 [04Jan2025 20:46:17.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 20:46:17.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 20:50:04.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cruz'/28531, l='ServerLevel[world]', x=-1511.53, y=93.00, z=-2441.47] died, message: 'Cruz froze to death'
+[04Jan2025 20:50:04.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cruz'/28531, l='ServerLevel[world]', x=-1511.53, y=93.00, z=-2441.47] died: Cruz froze to death
+[04Jan2025 20:50:38.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Milan'/28507, l='ServerLevel[world]', x=-1509.70, y=95.00, z=-2434.50] died, message: 'Milan froze to death'
+[04Jan2025 20:50:38.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Milan'/28507, l='ServerLevel[world]', x=-1509.70, y=95.00, z=-2434.50] died: Milan froze to death
+[04Jan2025 20:51:17.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 20:51:17.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 20:51:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[04Jan2025 20:52:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[04Jan2025 20:56:17.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 20:56:17.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
