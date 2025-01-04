@@ -239,3 +239,18 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 17:10:51.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Zombie Villager
 [04Jan2025 17:10:51.555] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
 [04Jan2025 17:12:12.601] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2297ms or 45 ticks
+[04Jan2025 17:18:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[04Jan2025 17:18:27.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[04Jan2025 17:19:07.153] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2375ms or 47 ticks
+[04Jan2025 17:19:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [Best Friends Forever]
+[04Jan2025 17:20:31.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 0.251558149052471
+[04Jan2025 17:20:31.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 0.5835145262941523
+[04Jan2025 17:20:32.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 0.9190639889365002
+[04Jan2025 17:20:32.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 1.2748366853921111
+[04Jan2025 17:20:32.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 1.6670179905066012
+[04Jan2025 17:20:35.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 0.25849181913395114
+[04Jan2025 17:20:35.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 0.5967070542757256
+[04Jan2025 17:20:35.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 0.9486933692210187
+[04Jan2025 17:20:35.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Death) moved wrongly! 1.0
+[04Jan2025 17:21:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[04Jan2025 17:22:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
