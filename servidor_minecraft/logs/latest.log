@@ -257,3 +257,9 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 19:09:51.622] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
 [04Jan2025 19:10:28.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
 [04Jan2025 19:10:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Here They Come]
+[04Jan2025 19:16:54.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Life turned out to be a comedy]
+[04Jan2025 19:24:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Nightmare Stalker
+[04Jan2025 19:24:31.014] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[04Jan2025 19:24:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Nightmare Stalker
+[04Jan2025 19:24:52.013] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[04Jan2025 19:25:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]

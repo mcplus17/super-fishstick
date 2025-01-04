@@ -3064,6 +3064,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-04 19:16:54 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/radio_collar": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/pianist_suit": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
@@ -3076,9 +3088,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/guard_suit": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/smarty_glasses": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
     },
     "done": true
   },
@@ -3112,9 +3142,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_shin": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
     },
     "done": true
   },
@@ -3178,6 +3226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/kitsune_mask": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
@@ -3189,6 +3243,12 @@
       "in_better_spider_dungeon": "2025-01-04 18:48:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
+    },
+    "done": true
   },
   "doggytalents:recipes/decorations/locator_orb_chu": {
     "criteria": {
@@ -3241,6 +3301,12 @@
   "doggytalents:recipes/decorations/beastars_uniform_female": {
     "criteria": {
       "has_wool": "2025-01-04 18:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-04 19:12:43 +0000"
     },
     "done": true
   },

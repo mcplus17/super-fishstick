@@ -4137,3 +4137,17 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 19:10:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Here They Come]
 [04Jan2025 19:11:17.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 19:11:17.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 19:16:17.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 19:16:17.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 19:16:54.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Life turned out to be a comedy]
+[04Jan2025 19:21:17.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 19:21:17.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 19:24:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Nightmare Stalker
+[04Jan2025 19:24:31.010] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:-1994, y:-21, z:-2658, dim:minecraft:overworld]
+[04Jan2025 19:24:31.014] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[04Jan2025 19:24:33.852] [Server thread/DEBUG] [twilightforest/]: Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) respawned and received items held in storage
+[04Jan2025 19:24:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Nightmare Stalker
+[04Jan2025 19:24:52.006] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja was created at position [x:-1995, y:-22, z:-2663, dim:minecraft:overworld]
+[04Jan2025 19:24:52.013] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[04Jan2025 19:24:58.183] [Server thread/DEBUG] [twilightforest/]: Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) respawned and received items held in storage
+[04Jan2025 19:25:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
