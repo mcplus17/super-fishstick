@@ -263,3 +263,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 19:24:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Nightmare Stalker
 [04Jan2025 19:24:52.013] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
 [04Jan2025 19:25:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[04Jan2025 19:31:45.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[04Jan2025 19:34:52.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Cutest Predator]
+[04Jan2025 19:35:05.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [The Cutest Predator]

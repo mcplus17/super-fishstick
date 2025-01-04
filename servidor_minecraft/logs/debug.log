@@ -4151,3 +4151,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 19:24:52.013] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
 [04Jan2025 19:24:58.183] [Server thread/DEBUG] [twilightforest/]: Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) respawned and received items held in storage
 [04Jan2025 19:25:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[04Jan2025 19:26:17.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 19:26:17.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 19:31:17.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 19:31:17.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 19:31:45.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[04Jan2025 19:34:52.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Cutest Predator]
+[04Jan2025 19:35:05.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [The Cutest Predator]
