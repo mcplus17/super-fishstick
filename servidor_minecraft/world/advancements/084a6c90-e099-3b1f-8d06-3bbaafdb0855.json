@@ -1147,6 +1147,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-31 03:33:56 +0000",
+      "chicken": "2025-01-04 16:08:54 +0000",
       "cooked_mutton": "2024-12-31 04:44:32 +0000",
       "cooked_beef": "2024-12-31 02:37:16 +0000",
       "apple": "2024-12-31 02:04:20 +0000",
@@ -3770,6 +3771,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-04 15:56:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-01-04 16:09:11 +0000"
     },
     "done": true
   },
