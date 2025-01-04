@@ -4220,3 +4220,9 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 21:05:37.789] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -10539 -40 5913 in 3s
 [04Jan2025 21:06:17.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 21:06:17.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 21:11:17.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 21:11:17.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 21:14:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
+[04Jan2025 21:16:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Lorem Ipsum]
+[04Jan2025 21:16:17.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 21:16:17.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

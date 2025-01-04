@@ -3531,6 +3531,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-04 21:16:06 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/misc/gender_bone": {
     "criteria": {
       "has_string": "2025-01-04 18:48:50 +0000"
