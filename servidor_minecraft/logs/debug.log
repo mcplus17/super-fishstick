@@ -4195,3 +4195,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 20:36:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [It Belongs in a Museum]
 [04Jan2025 20:36:17.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 20:36:17.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 20:41:17.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 20:41:17.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 20:42:40.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2356, y=28, z=-2297} BlockPos{x=-2356, y=27, z=-2298}
+[04Jan2025 20:43:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
+[04Jan2025 20:44:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[04Jan2025 20:46:17.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 20:46:17.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

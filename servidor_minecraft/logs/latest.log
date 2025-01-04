@@ -276,3 +276,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [04Jan2025 20:33:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
 [04Jan2025 20:33:54.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
 [04Jan2025 20:36:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [It Belongs in a Museum]
+[04Jan2025 20:42:40.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2356, y=28, z=-2297} BlockPos{x=-2356, y=27, z=-2298}
+[04Jan2025 20:43:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
+[04Jan2025 20:44:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
