@@ -245,3 +245,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 03:50:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
 [05Jan2025 03:53:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> [x:-1768, y:155, z:1943, dim:minecraft:overworld]
 [05Jan2025 03:54:07.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[05Jan2025 03:59:07.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Parrots and the Bats]
+[05Jan2025 04:00:12.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[05Jan2025 04:00:28.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[05Jan2025 04:02:28.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[05Jan2025 04:04:00.103] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
