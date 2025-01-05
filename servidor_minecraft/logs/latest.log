@@ -343,3 +343,32 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 05:15:45.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
 [05Jan2025 05:15:45.524] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
 [05Jan2025 05:15:45.524] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
+[05Jan2025 05:16:13.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja[/100.73.245.73:18740] logged in with entity id 60192 at (-1146.4508680757388, 68.12287259052745, -2117.730066336086)
+[05Jan2025 05:16:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja joined the game
+[05Jan2025 05:16:13.803] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Benja just logged in with id 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 05:16:13.805] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 05:16:13.807] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 05:16:14.575] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja (18)
+[05Jan2025 05:16:14.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja
+[05Jan2025 05:16:28.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 05:16:29.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 05:16:29.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) successfully connected to voice chat
+[05Jan2025 05:16:40.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja lost connection: Disconnected
+[05Jan2025 05:16:40.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
+[05Jan2025 05:16:40.425] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 05:16:40.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
+[05Jan2025 05:16:59.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jan2025 05:16:59.622] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[05Jan2025 05:16:59.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jan2025 05:16:59.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jan2025 05:16:59.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jan2025 05:16:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jan2025 05:16:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jan2025 05:16:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Jan2025 05:16:59.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jan2025 05:16:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jan2025 05:16:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jan2025 05:16:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Jan2025 05:16:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jan2025 05:16:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Jan2025 05:17:00.047] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
