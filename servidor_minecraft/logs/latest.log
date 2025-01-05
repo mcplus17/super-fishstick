@@ -247,3 +247,4 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 02:26:24.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> metete vos
 [05Jan2025 02:28:09.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Willian'/4401, l='ServerLevel[world]', x=-1055.58, y=106.00, z=-2092.33] died, message: 'Willian was slain by Zombie'
 [05Jan2025 02:28:09.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Willian'/4401, l='ServerLevel[world]', x=-1055.58, y=106.00, z=-2092.33] died: Willian was slain by Zombie
+[05Jan2025 02:33:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> holi? xd
