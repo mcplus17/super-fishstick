@@ -229,3 +229,21 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 01:50:29.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [05Jan2025 01:50:29.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [05Jan2025 01:51:25.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [A Seedy Place]
+[05Jan2025 02:25:17.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Death[/100.119.0.29:61368] logged in with entity id 5485 at (-1221.009954021957, 115.0, -4.1727712422465935)
+[05Jan2025 02:25:17.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death joined the game
+[05Jan2025 02:25:17.352] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Death just logged in with id 084a6c90-e099-3b1f-8d06-3bbaafdb0855
+[05Jan2025 02:25:17.358] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Death[084a6c90-e099-3b1f-8d06-3bbaafdb0855]
+[05Jan2025 02:25:17.543] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Death downloaded
+[05Jan2025 02:25:19.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Death (18)
+[05Jan2025 02:25:19.942] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Death
+[05Jan2025 02:25:19.953] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4122ms or 82 ticks
+[05Jan2025 02:25:19.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[05Jan2025 02:25:29.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 084a6c90-e099-3b1f-8d06-3bbaafdb0855
+[05Jan2025 02:25:30.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 084a6c90-e099-3b1f-8d06-3bbaafdb0855
+[05Jan2025 02:25:30.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Death (084a6c90-e099-3b1f-8d06-3bbaafdb0855) successfully connected to voice chat
+[05Jan2025 02:25:47.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> oh no hermano
+[05Jan2025 02:26:05.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> metanse al grupo
+[05Jan2025 02:26:22.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> CHUPALA
+[05Jan2025 02:26:24.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> metete vos
+[05Jan2025 02:28:09.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Willian'/4401, l='ServerLevel[world]', x=-1055.58, y=106.00, z=-2092.33] died, message: 'Willian was slain by Zombie'
+[05Jan2025 02:28:09.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Willian'/4401, l='ServerLevel[world]', x=-1055.58, y=106.00, z=-2092.33] died: Willian was slain by Zombie
