@@ -250,3 +250,37 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 04:00:28.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
 [05Jan2025 04:02:28.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
 [05Jan2025 04:04:00.103] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
+[05Jan2025 04:04:47.623] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[05Jan2025 04:04:47.635] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Jan2025 04:04:47.636] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Jan2025 04:04:47.637] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Jan2025 04:04:47.637] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Jan2025 04:04:47.638] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Jan2025 04:04:47.646] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[05Jan2025 04:04:47.646] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[05Jan2025 04:04:47.646] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[05Jan2025 04:04:49.165] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[05Jan2025 04:04:49.173] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05Jan2025 04:04:49.174] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05Jan2025 04:04:49.763] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[05Jan2025 04:04:49.763] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[05Jan2025 04:04:49.784] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[05Jan2025 04:04:49.785] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[05Jan2025 04:04:49.794] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[05Jan2025 04:04:49.808] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[05Jan2025 04:09:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> hello server
+[05Jan2025 04:09:50.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] JA TROLEADO
+[05Jan2025 04:09:54.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> JAJAJJAJA
+[05Jan2025 04:10:10.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> te recuerda a algo
+[05Jan2025 04:10:32.376] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[05Jan2025 04:10:32.377] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[05Jan2025 04:10:32.377] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[05Jan2025 04:10:34.344] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[05Jan2025 04:10:34.345] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[05Jan2025 04:11:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gracias Death
+[05Jan2025 04:11:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Fue divertido matarte
+[05Jan2025 04:11:40.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> jajajja
+[05Jan2025 04:11:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> desgraciado
+[05Jan2025 04:12:20.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[05Jan2025 04:12:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> te ofendiste esa vez ?
+[05Jan2025 04:14:30.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Good Demoman]
