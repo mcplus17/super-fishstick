@@ -284,3 +284,33 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 04:12:20.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
 [05Jan2025 04:12:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> te ofendiste esa vez ?
 [05Jan2025 04:14:30.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Good Demoman]
+[05Jan2025 04:14:53.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Good Demoman]
+[05Jan2025 04:15:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Explosive Temper]
+[05Jan2025 04:15:22.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> zzzzzzzzzzzzzzzzzzz
+[05Jan2025 04:15:53.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja lost connection: Disconnected
+[05Jan2025 04:15:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
+[05Jan2025 04:15:53.063] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 04:15:53.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
+[05Jan2025 04:16:23.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja[/100.73.245.73:18156] logged in with entity id 41336 at (-991.5122600609889, 79.0, -2276.8341947914846)
+[05Jan2025 04:16:23.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja joined the game
+[05Jan2025 04:16:23.928] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Benja just logged in with id 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 04:16:23.938] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 04:16:23.939] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 04:16:24.161] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja (18)
+[05Jan2025 04:16:24.162] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja
+[05Jan2025 04:16:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was doomed to fall
+[05Jan2025 04:16:33.515] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[05Jan2025 04:16:35.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 04:16:36.016] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
+[05Jan2025 04:16:36.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 04:16:36.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) successfully connected to voice chat
+[05Jan2025 04:16:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja hit the ground too hard
+[05Jan2025 04:16:52.748] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[05Jan2025 04:21:03.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> stupid server
+[05Jan2025 04:21:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Back to childhood]
+[05Jan2025 04:21:11.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Not even afraid of death]
+[05Jan2025 04:24:24.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375
+[05Jan2025 04:24:24.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375
+[05Jan2025 04:24:24.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375
+[05Jan2025 04:24:24.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375
+[05Jan2025 04:24:25.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375

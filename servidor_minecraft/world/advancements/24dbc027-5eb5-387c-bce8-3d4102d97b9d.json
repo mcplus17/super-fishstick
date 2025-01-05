@@ -3940,6 +3940,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2025-01-05 04:15:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:33 +0000"
@@ -3957,6 +3963,12 @@
       "has_logs": "2025-01-05 03:54:33 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-01-05 04:14:30 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
     "criteria": {
@@ -4033,6 +4045,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-01-05 04:14:53 +0000"
     },
     "done": true
   },
