@@ -1,100 +1,100 @@
-[04Jan2025 18:25:08.199] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[04Jan2025 18:25:08.202] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Jan2025 18:25:12.859] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04Jan2025 18:25:13.107] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/super-fishstick/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Jan2025 18:25:13.673] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jan2025 18:25:13.675] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jan2025 18:25:13.676] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jan2025 18:25:13.678] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jan2025 18:25:14.004] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[04Jan2025 18:25:17.237] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Jan2025 18:25:17.456] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[04Jan2025 18:25:17.457] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[04Jan2025 18:25:17.498] [main/WARN] [mixin/]: Reference map 'doggytalents.refmap.json' for doggytalents.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jan2025 18:25:18.471] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: recipeessentials.json
-[04Jan2025 18:25:18.811] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[04Jan2025 18:25:28.959] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[05Jan2025 01:41:51.915] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Jan2025 01:41:51.921] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Jan2025 01:41:53.128] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Jan2025 01:41:53.197] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/super-fishstick/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Jan2025 01:41:53.645] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 01:41:53.647] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 01:41:53.650] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 01:41:53.651] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 01:41:53.853] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[05Jan2025 01:41:56.716] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Jan2025 01:41:56.936] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[05Jan2025 01:41:56.938] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Jan2025 01:41:56.966] [main/WARN] [mixin/]: Reference map 'doggytalents.refmap.json' for doggytalents.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jan2025 01:41:57.470] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: recipeessentials.json
+[05Jan2025 01:41:57.706] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[05Jan2025 01:42:07.728] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[04Jan2025 18:25:29.690] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
-[04Jan2025 18:25:29.691] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
-[04Jan2025 18:25:29.882] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[04Jan2025 18:25:30.084] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[04Jan2025 18:25:30.086] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[04Jan2025 18:25:30.089] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[04Jan2025 18:25:30.090] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[04Jan2025 18:25:30.090] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[04Jan2025 18:25:30.090] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[04Jan2025 18:25:30.091] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[04Jan2025 18:25:30.288] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[04Jan2025 18:25:30.289] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[04Jan2025 18:25:30.940] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[04Jan2025 18:25:32.044] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[04Jan2025 18:25:32.542] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[04Jan2025 18:25:37.365] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[04Jan2025 18:25:37.377] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[04Jan2025 18:25:37.573] [modloading-worker-0/INFO] [com.recipeessentials.RecipeEssentials/]: recipeessentials mod initialized
-[04Jan2025 18:25:37.583] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[04Jan2025 18:25:37.586] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[04Jan2025 18:25:37.651] [modloading-worker-0/INFO] [com.logprot.Logprot/]: Shields up!
-[04Jan2025 18:25:37.667] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[04Jan2025 18:25:37.783] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[04Jan2025 18:25:37.807] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[04Jan2025 18:25:37.808] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[04Jan2025 18:25:37.809] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[04Jan2025 18:25:37.817] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: leaky.json
-[04Jan2025 18:25:37.817] [modloading-worker-0/INFO] [com.leaky.Leaky/]: leaky mod initialized
-[04Jan2025 18:25:37.860] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
-[04Jan2025 18:25:37.896] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
-[04Jan2025 18:25:37.901] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
-[04Jan2025 18:25:37.914] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
-[04Jan2025 18:25:37.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
-[04Jan2025 18:25:38.371] [main/INFO] [journeymap/]: Initializing Packet Registries
-[04Jan2025 18:25:38.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.39 Target: 1.17.2
-[04Jan2025 18:25:38.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[04Jan2025 18:25:38.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[04Jan2025 18:25:38.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[04Jan2025 18:25:38.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[04Jan2025 18:25:38.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[04Jan2025 18:25:39.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[04Jan2025 18:25:39.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[04Jan2025 18:25:39.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[04Jan2025 18:25:39.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[04Jan2025 18:25:39.203] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
-[04Jan2025 18:25:39.203] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Jan2025 18:25:39.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[04Jan2025 18:25:39.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
-[04Jan2025 18:25:39.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.10 Target: null
-[04Jan2025 18:25:39.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[04Jan2025 18:25:39.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[04Jan2025 18:25:39.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
-[04Jan2025 18:25:39.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[04Jan2025 18:25:39.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[04Jan2025 18:25:40.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[04Jan2025 18:25:40.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[04Jan2025 18:25:40.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
-[04Jan2025 18:25:40.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[04Jan2025 18:25:40.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[04Jan2025 18:25:40.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
-[04Jan2025 18:25:40.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[04Jan2025 18:25:40.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[04Jan2025 18:25:40.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[04Jan2025 18:25:40.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[04Jan2025 18:25:40.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[04Jan2025 18:25:40.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
-[04Jan2025 18:25:40.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
-[04Jan2025 18:25:40.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[04Jan2025 18:25:40.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[04Jan2025 18:25:40.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[04Jan2025 18:25:40.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[04Jan2025 18:25:40.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdogs_dtn] Starting version check at https://raw.githubusercontent.com/Mrblueyeti/BetterDogsForDTN/5a1f7643d862e85c05f1e9cd248c02e7fd1603f6/check_fior_updates/update.json
-[04Jan2025 18:25:40.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdogs_dtn] Found status: BETA Current: 1.2.2 Target: 1.0
-[04Jan2025 18:25:46.171] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Jan2025 18:25:51.360] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23215!/assets/.mcassetsroot' uses unexpected schema
-[04Jan2025 18:25:51.360] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23215!/data/.mcassetsroot' uses unexpected schema
-[04Jan2025 18:25:52.130] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[04Jan2025 18:25:53.515] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.10.jar)
-[04Jan2025 18:25:53.526] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.10.jar)
-[04Jan2025 18:25:54.796] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+[05Jan2025 01:42:08.348] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[05Jan2025 01:42:08.349] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[05Jan2025 01:42:08.564] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[05Jan2025 01:42:08.711] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[05Jan2025 01:42:08.712] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[05Jan2025 01:42:08.712] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[05Jan2025 01:42:08.712] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[05Jan2025 01:42:08.712] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[05Jan2025 01:42:08.712] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[05Jan2025 01:42:08.713] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[05Jan2025 01:42:08.932] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Jan2025 01:42:08.932] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Jan2025 01:42:09.501] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[05Jan2025 01:42:10.346] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Jan2025 01:42:10.691] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[05Jan2025 01:42:15.607] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[05Jan2025 01:42:15.623] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[05Jan2025 01:42:16.178] [modloading-worker-0/INFO] [com.recipeessentials.RecipeEssentials/]: recipeessentials mod initialized
+[05Jan2025 01:42:16.191] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[05Jan2025 01:42:16.202] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[05Jan2025 01:42:16.273] [modloading-worker-0/INFO] [com.logprot.Logprot/]: Shields up!
+[05Jan2025 01:42:16.283] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[05Jan2025 01:42:16.418] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[05Jan2025 01:42:16.429] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[05Jan2025 01:42:16.429] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[05Jan2025 01:42:16.430] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[05Jan2025 01:42:16.452] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: leaky.json
+[05Jan2025 01:42:16.452] [modloading-worker-0/INFO] [com.leaky.Leaky/]: leaky mod initialized
+[05Jan2025 01:42:16.467] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[05Jan2025 01:42:16.493] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[05Jan2025 01:42:16.495] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Jan2025 01:42:16.507] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[05Jan2025 01:42:16.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://raw.githubusercontent.com/DashieDev/DoggyTalentsNext/0d05eaff7c4b588831ca6480f737187f44dda820/check_for_update/update.json
+[05Jan2025 01:42:17.107] [main/INFO] [journeymap/]: Initializing Packet Registries
+[05Jan2025 01:42:17.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 1.18.39 Target: 1.17.2
+[05Jan2025 01:42:17.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[05Jan2025 01:42:17.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[05Jan2025 01:42:17.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[05Jan2025 01:42:17.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[05Jan2025 01:42:17.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[05Jan2025 01:42:17.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[05Jan2025 01:42:17.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[05Jan2025 01:42:17.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[05Jan2025 01:42:17.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[05Jan2025 01:42:17.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[05Jan2025 01:42:17.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jan2025 01:42:17.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[05Jan2025 01:42:17.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[05Jan2025 01:42:18.073] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.10 Target: null
+[05Jan2025 01:42:18.073] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[05Jan2025 01:42:18.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[05Jan2025 01:42:18.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[05Jan2025 01:42:18.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[05Jan2025 01:42:18.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[05Jan2025 01:42:18.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[05Jan2025 01:42:18.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[05Jan2025 01:42:19.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
+[05Jan2025 01:42:19.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[05Jan2025 01:42:19.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[05Jan2025 01:42:19.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[05Jan2025 01:42:19.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[05Jan2025 01:42:19.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[05Jan2025 01:42:19.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[05Jan2025 01:42:19.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[05Jan2025 01:42:19.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[05Jan2025 01:42:19.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[05Jan2025 01:42:19.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
+[05Jan2025 01:42:19.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[05Jan2025 01:42:19.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[05Jan2025 01:42:19.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[05Jan2025 01:42:19.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[05Jan2025 01:42:19.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdogs_dtn] Starting version check at https://raw.githubusercontent.com/Mrblueyeti/BetterDogsForDTN/5a1f7643d862e85c05f1e9cd248c02e7fd1603f6/check_fior_updates/update.json
+[05Jan2025 01:42:19.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterdogs_dtn] Found status: BETA Current: 1.2.2 Target: 1.0
+[05Jan2025 01:42:23.837] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Jan2025 01:42:29.201] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23215!/assets/.mcassetsroot' uses unexpected schema
+[05Jan2025 01:42:29.201] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/super-fishstick/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23215!/data/.mcassetsroot' uses unexpected schema
+[05Jan2025 01:42:29.854] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[05Jan2025 01:42:31.045] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.10.jar)
+[05Jan2025 01:42:31.062] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.10.jar)
+[05Jan2025 01:42:32.181] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
 com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at net.minecraft.util.GsonHelper.m_13912_(GsonHelper.java:181) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
 	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
@@ -143,176 +143,89 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[04Jan2025 18:25:55.095] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[04Jan2025 18:25:55.136] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[04Jan2025 18:25:55.145] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[04Jan2025 18:25:55.158] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[04Jan2025 18:25:55.219] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[04Jan2025 18:25:55.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[04Jan2025 18:25:55.224] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[04Jan2025 18:25:55.229] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[04Jan2025 18:25:55.241] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[04Jan2025 18:25:55.481] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2527 advancements
-[04Jan2025 18:25:55.500] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[04Jan2025 18:25:55.538] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[04Jan2025 18:25:55.550] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[04Jan2025 18:25:55.593] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[04Jan2025 18:26:00.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[04Jan2025 18:26:00.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Jan2025 18:26:00.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Jan2025 18:26:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Jan2025 18:26:00.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Jan2025 18:26:00.723] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Jan2025 18:26:00.827] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Jan2025 18:26:00.827] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Jan2025 18:26:00.828] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Jan2025 18:26:00.828] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Jan2025 18:26:00.841] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dynamicview.json
-[04Jan2025 18:26:00.849] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[04Jan2025 18:26:00.850] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[04Jan2025 18:26:00.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Jan2025 18:26:01.407] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
-[04Jan2025 18:26:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Jan2025 18:26:10.007] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:10.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:10.163] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:10.490] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:10.527] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:10.587] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:10.611] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:10.620] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:11.024] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:11.521] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:12.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:12.983] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:13.035] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:13.520] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:14.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:14.615] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:15.022] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jan2025 18:26:15.523] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[04Jan2025 18:26:16.018] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[04Jan2025 18:26:16.519] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
-[04Jan2025 18:26:16.845] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9828 ms
-[04Jan2025 18:26:16.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.001s)! For help, type "help"
-[04Jan2025 18:26:17.335] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Jan2025 18:26:17.420] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
-[04Jan2025 18:26:17.421] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
-[04Jan2025 18:26:17.424] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
-[04Jan2025 18:26:17.430] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[04Jan2025 18:26:17.433] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: logprot.json
-[04Jan2025 18:26:17.434] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: chunksending.json
-[04Jan2025 18:26:17.435] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[04Jan2025 18:26:17.450] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at 100.107.36.24:24454
-[04Jan2025 18:31:37.335] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[04Jan2025 18:31:37.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja[/100.73.245.73:42487] logged in with entity id 773 at (-3.2512425878429054, 68.0, -48.975396950970804)
-[04Jan2025 18:31:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja joined the game
-[04Jan2025 18:31:37.815] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Benja just logged in with id 71f92966-9de7-3a64-9d65-f06e6711b873
-[04Jan2025 18:31:37.838] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
-[04Jan2025 18:31:37.841] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
-[04Jan2025 18:31:38.074] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja (18)
-[04Jan2025 18:31:38.078] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja
-[04Jan2025 18:31:51.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71f92966-9de7-3a64-9d65-f06e6711b873
-[04Jan2025 18:31:52.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71f92966-9de7-3a64-9d65-f06e6711b873
-[04Jan2025 18:31:52.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) successfully connected to voice chat
-[04Jan2025 18:32:36.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:57693] logged in with entity id 916 at (-1509.4354142405, 102.0, -2486.1928187924736)
-[04Jan2025 18:32:36.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
-[04Jan2025 18:32:36.395] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Meu_By just logged in with id 24dbc027-5eb5-387c-bce8-3d4102d97b9d
-[04Jan2025 18:32:36.396] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Meu_By[24dbc027-5eb5-387c-bce8-3d4102d97b9d]
-[04Jan2025 18:32:37.178] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Meu_By
-[04Jan2025 18:32:37.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja moved too quickly! 9.708548350808158,-1.0244240882136921,3.0526102365508336
-[04Jan2025 18:32:37.966] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3094ms or 61 ticks
-[04Jan2025 18:32:39.536] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
-[04Jan2025 18:32:39.538] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
-[04Jan2025 18:33:06.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
-[04Jan2025 18:33:07.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
-[04Jan2025 18:33:07.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
-[04Jan2025 18:33:33.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ruth'/1037, l='ServerLevel[world]', x=-1525.50, y=76.16, z=-2449.30] died, message: 'Ruth froze to death'
-[04Jan2025 18:33:33.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ruth'/1037, l='ServerLevel[world]', x=-1525.50, y=76.16, z=-2449.30] died: Ruth froze to death
-[04Jan2025 18:33:46.658] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2068ms or 41 ticks
-[04Jan2025 18:33:58.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Zack'/992, l='ServerLevel[world]', x=-1513.48, y=92.00, z=-2441.61] died, message: 'Zack froze to death'
-[04Jan2025 18:33:58.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Zack'/992, l='ServerLevel[world]', x=-1513.48, y=92.00, z=-2441.61] died: Zack froze to death
-[04Jan2025 18:34:02.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rico'/997, l='ServerLevel[world]', x=-1509.50, y=95.00, z=-2448.70] died, message: 'Rico froze to death'
-[04Jan2025 18:34:02.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rico'/997, l='ServerLevel[world]', x=-1509.50, y=95.00, z=-2448.70] died: Rico froze to death
-[04Jan2025 18:34:28.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
-[04Jan2025 18:34:28.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
-[04Jan2025 18:34:28.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
-[04Jan2025 18:34:32.042] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Failed to read packet from /100.86.66.124:50984
-[04Jan2025 18:34:33.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
-[04Jan2025 18:34:34.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
-[04Jan2025 18:34:34.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
-[04Jan2025 18:45:12.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ramon'/991, l='ServerLevel[world]', x=-1513.30, y=97.63, z=-2454.50] died, message: 'Ramon froze to death'
-[04Jan2025 18:45:12.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ramon'/991, l='ServerLevel[world]', x=-1513.30, y=97.63, z=-2454.50] died: Ramon froze to death
-[04Jan2025 18:46:20.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tena'/971, l='ServerLevel[world]', x=-1513.60, y=92.00, z=-2441.63] died, message: 'Tena froze to death'
-[04Jan2025 18:46:20.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tena'/971, l='ServerLevel[world]', x=-1513.60, y=92.00, z=-2441.63] died: Tena froze to death
-[04Jan2025 18:48:50.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Cobweb Entanglement]
-[04Jan2025 19:08:39.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1800, y=-48, z=-2636} BlockPos{x=-1801, y=-46, z=-2636}
-[04Jan2025 19:08:45.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1802, y=-47, z=-2633} BlockPos{x=-1802, y=-47, z=-2632}
-[04Jan2025 19:08:51.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1798, y=-50, z=-2636} BlockPos{x=-1797, y=-49, z=-2636}
-[04Jan2025 19:09:25.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Lifestealer
-[04Jan2025 19:09:25.734] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
-[04Jan2025 19:09:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Lifestealer
-[04Jan2025 19:09:35.524] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
-[04Jan2025 19:09:51.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Lifestealer
-[04Jan2025 19:09:51.622] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
-[04Jan2025 19:10:28.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
-[04Jan2025 19:10:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Here They Come]
-[04Jan2025 19:16:54.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Life turned out to be a comedy]
-[04Jan2025 19:24:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Nightmare Stalker
-[04Jan2025 19:24:31.014] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
-[04Jan2025 19:24:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Nightmare Stalker
-[04Jan2025 19:24:52.013] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
-[04Jan2025 19:25:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
-[04Jan2025 19:31:45.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
-[04Jan2025 19:34:52.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Cutest Predator]
-[04Jan2025 19:35:05.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [The Cutest Predator]
-[04Jan2025 19:50:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
-[04Jan2025 19:51:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
-[04Jan2025 19:59:47.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2089, y=-13, z=-2592} BlockPos{x=-2090, y=-12, z=-2593}
-[04Jan2025 20:11:57.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
-[04Jan2025 20:29:25.952] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2002ms or 40 ticks
-[04Jan2025 20:31:36.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2357, y=26, z=-2286} BlockPos{x=-2357, y=26, z=-2287}
-[04Jan2025 20:32:15.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2350, y=29, z=-2327} BlockPos{x=-2353, y=27, z=-2330}
-[04Jan2025 20:33:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
-[04Jan2025 20:33:54.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
-[04Jan2025 20:36:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [It Belongs in a Museum]
-[04Jan2025 20:42:40.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2356, y=28, z=-2297} BlockPos{x=-2356, y=27, z=-2298}
-[04Jan2025 20:43:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
-[04Jan2025 20:44:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
-[04Jan2025 20:50:04.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cruz'/28531, l='ServerLevel[world]', x=-1511.53, y=93.00, z=-2441.47] died, message: 'Cruz froze to death'
-[04Jan2025 20:50:04.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cruz'/28531, l='ServerLevel[world]', x=-1511.53, y=93.00, z=-2441.47] died: Cruz froze to death
-[04Jan2025 20:50:38.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Milan'/28507, l='ServerLevel[world]', x=-1509.70, y=95.00, z=-2434.50] died, message: 'Milan froze to death'
-[04Jan2025 20:50:38.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Milan'/28507, l='ServerLevel[world]', x=-1509.70, y=95.00, z=-2434.50] died: Milan froze to death
-[04Jan2025 20:51:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
-[04Jan2025 20:52:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
-[04Jan2025 20:56:49.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> SAMANTHA
-[04Jan2025 21:05:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Lorem Ipsum]
-[04Jan2025 21:05:31.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [The Journey Begins]
-[04Jan2025 21:05:37.789] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -10539 -40 5913 in 3s
-[04Jan2025 21:14:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
-[04Jan2025 21:16:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Lorem Ipsum]
-[04Jan2025 21:22:57.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> E
-[04Jan2025 21:23:01.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
-[04Jan2025 21:27:29.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
-[04Jan2025 21:27:29.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
-[04Jan2025 21:27:29.058] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Meu_By[24dbc027-5eb5-387c-bce8-3d4102d97b9d]
-[04Jan2025 21:27:29.059] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
-[04Jan2025 21:27:31.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja lost connection: Disconnected
-[04Jan2025 21:27:31.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
-[04Jan2025 21:27:31.054] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
-[04Jan2025 21:27:31.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
-[04Jan2025 21:27:52.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[04Jan2025 21:27:52.751] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
-[04Jan2025 21:27:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04Jan2025 21:27:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04Jan2025 21:27:52.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04Jan2025 21:27:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04Jan2025 21:27:53.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04Jan2025 21:27:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[04Jan2025 21:27:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04Jan2025 21:27:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04Jan2025 21:27:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04Jan2025 21:27:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[04Jan2025 21:27:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04Jan2025 21:27:53.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04Jan2025 21:27:53.265] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Jan2025 01:42:32.439] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[05Jan2025 01:42:32.508] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[05Jan2025 01:42:32.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[05Jan2025 01:42:32.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[05Jan2025 01:42:32.590] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[05Jan2025 01:42:32.595] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[05Jan2025 01:42:32.597] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[05Jan2025 01:42:32.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[05Jan2025 01:42:32.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[05Jan2025 01:42:32.895] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2527 advancements
+[05Jan2025 01:42:32.902] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[05Jan2025 01:42:32.924] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[05Jan2025 01:42:32.929] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[05Jan2025 01:42:32.967] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[05Jan2025 01:42:37.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Jan2025 01:42:37.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jan2025 01:42:37.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jan2025 01:42:37.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jan2025 01:42:37.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jan2025 01:42:38.018] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Jan2025 01:42:38.119] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jan2025 01:42:38.120] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jan2025 01:42:38.120] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jan2025 01:42:38.121] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jan2025 01:42:38.135] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dynamicview.json
+[05Jan2025 01:42:38.142] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Jan2025 01:42:38.143] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Jan2025 01:42:38.144] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Jan2025 01:42:38.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jan2025 01:42:38.650] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[05Jan2025 01:42:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jan2025 01:42:46.706] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:46.738] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:46.790] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:46.808] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:46.819] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:47.137] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:47.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:47.403] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:47.435] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:47.444] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:47.495] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:48.196] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:48.494] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:48.990] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:49.613] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:49.994] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:50.493] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:50.993] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 01:42:51.490] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[05Jan2025 01:42:51.993] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[05Jan2025 01:42:52.262] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9773 ms
+[05Jan2025 01:42:52.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.125s)! For help, type "help"
+[05Jan2025 01:42:52.330] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Jan2025 01:42:52.374] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[05Jan2025 01:42:52.375] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[05Jan2025 01:42:52.379] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[05Jan2025 01:42:52.382] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[05Jan2025 01:42:52.383] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: logprot.json
+[05Jan2025 01:42:52.384] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: chunksending.json
+[05Jan2025 01:42:52.385] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[05Jan2025 01:42:52.397] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at 100.107.36.24:24454
+[05Jan2025 01:43:22.663] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Jan2025 01:43:22.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja[/100.73.245.73:13320] logged in with entity id 703 at (-1192.2109948926498, 26.0, -2085.300000011921)
+[05Jan2025 01:43:22.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja joined the game
+[05Jan2025 01:43:23.038] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Benja just logged in with id 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 01:43:23.532] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 01:43:23.533] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
+[05Jan2025 01:43:26.402] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja (18)
+[05Jan2025 01:43:26.406] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja
+[05Jan2025 01:43:26.421] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4171ms or 83 ticks
+[05Jan2025 01:43:26.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[05Jan2025 01:43:41.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 01:43:42.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71f92966-9de7-3a64-9d65-f06e6711b873
+[05Jan2025 01:43:42.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) successfully connected to voice chat
+[05Jan2025 01:49:57.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:64108] logged in with entity id 1164 at (-1193.074515265905, 26.0, -2088.4525346261785)
+[05Jan2025 01:49:57.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[05Jan2025 01:49:57.094] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Meu_By just logged in with id 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[05Jan2025 01:49:57.098] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Meu_By[24dbc027-5eb5-387c-bce8-3d4102d97b9d]
+[05Jan2025 01:49:59.522] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Meu_By
+[05Jan2025 01:50:02.410] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[05Jan2025 01:50:02.411] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[05Jan2025 01:50:28.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[05Jan2025 01:50:29.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[05Jan2025 01:50:29.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[05Jan2025 01:51:25.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [A Seedy Place]
