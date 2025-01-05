@@ -314,3 +314,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 04:24:24.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375
 [05Jan2025 04:24:24.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375
 [05Jan2025 04:24:25.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Death) moved wrongly! 0.275146484375
+[05Jan2025 04:45:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[05Jan2025 04:49:11.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Death lost connection: Disconnected
+[05Jan2025 04:49:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death left the game
+[05Jan2025 04:49:11.179] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Death[084a6c90-e099-3b1f-8d06-3bbaafdb0855]
+[05Jan2025 04:49:11.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Death

@@ -1452,6 +1452,7 @@
       "minecraft:vindicator": "2024-12-31 04:28:28 +0000",
       "minecraft:spider": "2024-12-31 02:47:25 +0000",
       "minecraft:creeper": "2025-01-03 04:12:22 +0000",
+      "minecraft:slime": "2025-01-05 04:54:13 +0000",
       "minecraft:cave_spider": "2025-01-03 02:50:07 +0000",
       "minecraft:enderman": "2025-01-03 02:55:25 +0000",
       "minecraft:zombie": "2025-01-03 04:11:58 +0000"
@@ -3868,6 +3869,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/frisbee": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 04:54:29 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:33 +0000"
@@ -3970,6 +3977,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 04:54:29 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:43 +0000"
@@ -4042,6 +4055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 04:54:29 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:43 +0000"
@@ -4060,10 +4079,17 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-01-05 04:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-01-05 04:24:43 +0000",
       "minecraft:sheep": "2025-01-05 03:59:07 +0000",
+      "minecraft:cow": "2025-01-05 04:47:44 +0000",
       "minecraft:chicken": "2025-01-05 04:28:45 +0000"
     },
     "done": false
@@ -4104,6 +4130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 04:54:29 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:33 +0000"
@@ -4137,6 +4169,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/throw_stick": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 04:54:29 +0000"
     },
     "done": true
   },
