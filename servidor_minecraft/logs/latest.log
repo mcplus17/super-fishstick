@@ -240,3 +240,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 03:36:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Death has made the advancement [It Belongs in a Museum]
 [05Jan2025 03:39:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
 [05Jan2025 03:42:15.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1639, y=54, z=1156} BlockPos{x=-1639, y=53, z=1156}
+[05Jan2025 03:44:57.516] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2338ms or 46 ticks
+[05Jan2025 03:49:40.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[05Jan2025 03:50:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[05Jan2025 03:53:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Death> [x:-1768, y:155, z:1943, dim:minecraft:overworld]
+[05Jan2025 03:54:07.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
