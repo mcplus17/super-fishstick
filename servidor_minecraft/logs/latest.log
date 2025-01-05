@@ -255,3 +255,18 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Jan2025 03:01:30.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja left the game
 [05Jan2025 03:01:30.408] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
 [05Jan2025 03:01:30.411] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja
+[05Jan2025 03:06:30.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
+[05Jan2025 03:06:30.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
+[05Jan2025 03:06:30.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[05Jan2025 03:06:37.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[05Jan2025 03:06:38.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[05Jan2025 03:06:38.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[05Jan2025 03:08:26.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
+[05Jan2025 03:08:26.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
+[05Jan2025 03:08:26.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[05Jan2025 03:08:29.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1221, y=101, z=-46} BlockPos{x=-1221, y=101, z=-47}
+[05Jan2025 03:09:01.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[05Jan2025 03:09:01.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[05Jan2025 03:09:01.306] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Meu_By[24dbc027-5eb5-387c-bce8-3d4102d97b9d]
+[05Jan2025 03:09:01.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[05Jan2025 03:09:01.354] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
